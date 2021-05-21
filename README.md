@@ -18,7 +18,7 @@ have a series of numbers or check if their DMs are empty). <br/>
 ask for user input to change the default account and the number of identified follow-bots
 <br/>
 
-note: removed keys for security
+note: removed keys for security<br/>
 ================= Example script running =================<br/>
 
 Examining @<twitterhandle>...<br/>
